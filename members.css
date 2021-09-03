@@ -1,0 +1,71 @@
+#table{
+    width: 40em;
+    height: 40em;
+}
+#tabl2{
+    width: 40em;
+    height: 40em;
+}
+.cabeza{
+    background-color: rgb(177, 195, 228);
+    height: 5em;
+}
+.bi.bi-x-circle-fill{
+    padding: 1em;
+    margin-left: 17em;
+    width: 2em;
+    height: 2em;
+}
+.bi.bi-chevron-compact-left{
+    padding: 1em;
+    margin-left: 17em;
+    width: 2em;
+    height: 2em;
+}
+.bi.bi-chevron-compact-right{
+    padding: 1em;
+    margin-left: 17em;
+    width: 2em;
+    height: 2em;
+}
+#titulo{
+    margin-right: 35em;
+    margin-top: 2em;
+    font-size: 0.7em;
+    padding-left: 5em;
+}
+#subtit{
+   
+    font-size: 0.7em; 
+
+}
+#imagen{
+    margin-top: -1em;
+    width: 20em;
+    height: 20em;
+    margin-left: 20em;
+    text-align: center;
+    }
+ #datos{
+    padding-left: 8em;
+   
+ }
+ #resumen{
+    padding-left: 8em;
+    padding-right: 8em;
+   
+ }
+ #resumen1{
+    padding-left: 7em;
+    padding-right: 8em;
+    font-size: 1.1em;
+
+   
+ }
+ #titulo2{
+     padding-left: 5em;
+    margin-right:35em;
+    margin-top: 2em;
+    font-size: 1.5em;
+}
+ 

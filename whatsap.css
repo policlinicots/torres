@@ -1,0 +1,63 @@
+.float{
+	position:fixed;
+	width:55px;
+	height:55px;
+	bottom: 75px;
+	right:50px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+  
+}
+.float1{
+	position:fixed;
+	width:55px;
+	height:55px;
+	bottom: -0.001px;
+	right:50px;
+	background-color:rgb(66, 66, 212);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.float2{
+	position:fixed;
+	width:55px;
+	height:55px;
+	bottom: 145px;
+	right:50px;
+	background-color:rgb(252, 96, 49);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+.float:hover {
+	text-decoration: none;
+	color: #25d366;
+  background-color:#fff;
+}
+.float1:hover {
+	text-decoration: none;
+	color: rgb(66, 66, 212);
+  background-color:#fff;
+}
+.float2:hover {
+	text-decoration: none;
+	color: rgb(252, 96, 49);
+  background-color:#fff;
+}
+
+.my-float{
+	margin-top:16px;
+}
